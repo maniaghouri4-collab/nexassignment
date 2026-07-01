@@ -1,0 +1,40 @@
+
+}
+.greencolor{
+    color: #4CAF4F !important;
+}
+.greencolor:hover{
+    color: #4CAF4F;
+}
+.paddingli{
+    padding-left: 60px;
+}
+.gray{
+    background-color: #F5F7FA;
+;
+}
+.cgap{
+    gap: 100px;
+    
+}
+.marginr{
+    margin-right:80px ;
+}
+.black{
+    background-color:  #263238 !important;
+
+}
+.gray{
+    background-color: #F5F7FA;
+;
+}
+.bgray{
+    background-color: gray;
+
+}
+.twhite{
+    color: white  !important;
+}
+.button:active{
+    color: black !important;
+}
