@@ -1,10 +1,11 @@
-
+:root{
+    --primary: #4D4D4D;
 }
 .greencolor{
     color: #4CAF4F !important;
 }
 .greencolor:hover{
-    color: #4CAF4F;
+   color:black !important;
 }
 .paddingli{
     padding-left: 60px;
@@ -37,4 +38,20 @@
 }
 .button:active{
     color: black !important;
+}
+.green:hover{
+    color: black !important;
+     background-color: transparent !important;
+    border: 2px solid green !important;
+}
+.green{
+    background-color:#4CAF4F !important;
+    color: white !important;
+}
+.dgrey{
+    background-color: #515B60 !important;
+    color: white !important;
+}
+.newsletter1::placeholder{
+    color:white !important;
 }
